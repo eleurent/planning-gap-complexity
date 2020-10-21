@@ -1,0 +1,42 @@
+theme: jekyll-theme-cayman
+title: "Planning in Markov Decision Processes with Gap-Dependent Sample Complexity"
+
+github:
+  repository_url: https://github.com/eleurent/planning-gap-complexity
+
+publication:
+  name: NeurIPS 2020
+  url: https://nips.cc/Conferences/2020/
+
+paper_url: https://arxiv.org/abs/2006.05879
+
+authors:
+  - name: Anders Jonsson
+    url: https://www.upf.edu/web/anders-jonsson
+    affiliation: Universitat Pompeu Fabra
+    affiliation_url: https://www.upf.edu/
+
+  - name: Emilie Kaufmann
+    url: http://chercheurs.lille.inria.fr/ekaufman/
+    affiliation: CNRS & ULille (CRIStAL), INRIA SEQUEL
+    affiliation_url: https://team.inria.fr/sequel/
+
+  - name: Pierre Ménard
+    url: https://perso.math.univ-toulouse.fr/pmenard/
+    affiliation: INRIA SEQUEL
+    affiliation_url: https://team.inria.fr/sequel/
+
+  - name: Omar Darwiche Domingues
+    url: https://omardrwch.github.io/
+    affiliation: INRIA SEQUEL
+    affiliation_url: https://team.inria.fr/sequel/
+
+  - name: Edouard Leurent
+    url: http://edouardleurent.com
+    affiliation: INRIA SEQUEL, Renault
+    affiliation_url: https://team.inria.fr/sequel/
+
+  - name: Michal Valko
+    url: http://researchers.lille.inria.fr/~valko/hp/
+    affiliation: DeepMind Paris
+    affiliation_url: https://deepmind.com
