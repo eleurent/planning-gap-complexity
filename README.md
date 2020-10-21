@@ -60,7 +60,7 @@ The experiments can be reproduced by running:
 
 ### Table 4 and Figure 1
 ```bash
-python planners_evaluation_confidence.py --epsilons=[1, 0.5, 0.2] --seeds=200
+python planners_evaluation_confidence.py --accuracies=[1, 0.5, 0.2] --seeds=200
 ```
 
 ### Figure 2
