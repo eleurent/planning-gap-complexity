@@ -1,5 +1,5 @@
-<img width="49%" src="./assets/images/budget.png">
-<img width="49%" src="./assets/images/simple_regret.png">
+<img style="vertical-align: top; width:49%" src="./assets/images/budget.svg">
+<img style="vertical-align: top; width:49%" src="./assets/images/simple_regret.svg">
 
 # Abstract
 
